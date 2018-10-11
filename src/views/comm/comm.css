@@ -1,0 +1,43 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  -webkit-tap-highlight-color: transparent;
+}
+.state-warning {
+    color: #ff9900;
+    border-color: #ff9900;
+}
+.state-danger {
+    color: #F43530;
+    border-color: #F43530;
+}
+.state-success {
+    color: #09BB07;
+    border-color: #09BB07;
+}
+.remove-delete .weui-gallery__del {
+	display: none;
+}
+.grid__icon_primary {
+    background-color: #2d8cf0;
+}
+.grid__icon_danger {
+    background-color: #ed4014;
+}
+.grid__icon_warning {
+    background-color: #ff9900;
+}
+.grid__icon_success {
+    background-color: #19be6b;
+}
+.grid__icon_info {
+    background-color: #2db7f5;
+}
+.grid__icon_light-primary {
+    background-color: #5cadff;
+}
+.grid__icon_dark-primary {
+    background-color: #2b85e4;
+}
